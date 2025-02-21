@@ -22,7 +22,7 @@
 <li><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e4.png?v8" alt="Office" height="14" /> I'm currently working at <a href="https://www.interrao.ru/">Inter RAO</a></li>
 
 
-<h3 align="left"><img src=".github/static/telephone.png" alt="Telephone" height="14" /> Contacts</h3>
+<h3 align="left"><img src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png?v8" alt="Telephone" height="14" /> Contacts</h3>
 <p align="left">
     <a href="https://t.me/giopioo" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" width="40" height="40"/> </a>
     <a href="https://ivanovo.hh.ru/resume/41691492ff0e74876a0039ed1f355a5748514c" target="_blank" rel="noreferrer"> <img src="https://tech.hh.ru/api/logos/min-hh-red.png" alt="headhunter" width="40" height="40"/> </a>
